@@ -9,6 +9,8 @@ A `README` file was included in each sub-folder to explain functions of each scr
 
 ```
 |-- ASoC/
+|-- scATAC/
+|-- scRNA/
 |-- LICENSE
 `-- README.md
 ```
@@ -21,6 +23,6 @@ A `README` file was included in each sub-folder to explain functions of each scr
 ## Contact
 For more information please contact
 
-- Bowen Zhang, **TODO**
+- Bowen Zhang, zhangbowen3187@gmail.com
 - Zhenhua Zhang, zhenhua.zhang217@gmail.com
 - Valerie A.C.M. Koeken, **TODO**
