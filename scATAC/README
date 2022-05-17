@@ -1,0 +1,21 @@
+
+ATACseq_monocytes.R    
+Rscripts: analyses done for monocytes subclusters
+
+DiffPeak.R     
+Rscripts:  Diffpeaks  between conditions
+
+peak2gene_links.R
+Rscripts:  analyses based on the peak2gene links inferred from ArchR.
+
+ATACseq_plots.R        
+Rscripts:  other plots for ATACseq analyses
+
+diaplot_matched_DEG.R
+Rscripts: diaplots of the matched DEGs and DiffPeaks
+
+ArchR_analyses.R       
+Rscripts: basic analyses based on ArchR
+
+load2ArchR_and_tests.R
+Rscripts: load data to ArchR
